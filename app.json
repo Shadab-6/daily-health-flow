@@ -1,0 +1,15 @@
+{
+  "name": "DailyHealthFlow",
+  "displayName": "Daily Health Flow",
+  "expo": {
+    "name": "Daily Health Flow",
+    "slug": "daily-health-flow",
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "11edc3cc-d10a-4fd0-87ae-4dc1e79d6d84"
+      }
+    },
+    "owner": "shadab33"
+  }
+}

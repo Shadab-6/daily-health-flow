@@ -1,0 +1,24 @@
+# Expo local state (machine-specific)
+.expo/
+
+# Dependencies
+node_modules/
+
+# Logs / debug
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Metro / build
+.metro-health-check*
+*.hprof
+android/app/build/
+android/build/
+android/.gradle/
+
+# Android (optional: uncomment if you use CNG and regenerate android/)
+# android/
+# ios/
